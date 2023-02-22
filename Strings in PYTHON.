@@ -1,0 +1,5 @@
+# To check if a character/string is a part of the main string
+name = "Shivam Kumar"
+print("Shivam" in name)
+print("S" in name)
+print("s" in name)
