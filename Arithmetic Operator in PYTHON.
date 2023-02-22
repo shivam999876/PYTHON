@@ -1,0 +1,7 @@
+print(5 + 2)
+print(5 - 2)
+print(5 * 2)
+print(5 / 2) #return float value
+print(5 // 2) #return only integer
+print(5 % 2)
+print(5 ** 2) #5*5
