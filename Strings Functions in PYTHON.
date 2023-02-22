@@ -1,0 +1,11 @@
+name = "Shivam Kumar"
+print(name.upper())
+print(name)
+print(name.lower())
+print(name)
+print(name.find('K'))
+print(name.find('K'))
+print(name.find("Shivam"))
+print(name.find("Shivam"))
+print(name.replace("Shivam", "Shubham"))
+print(name)
