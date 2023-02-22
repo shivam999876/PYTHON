@@ -1,0 +1,9 @@
+age = 13
+if age >= 18 :
+    print("You are an Adult")
+    print("You can vote")
+elif age < 3 :
+    print("You are a Child")    
+else :
+    print("You are in School")    
+    print("Thank You!!")
